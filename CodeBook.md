@@ -6,10 +6,12 @@ The tidy.txt data file is a text file, te first row contains the names of the va
 and 79 averaged signal measurements.
 
 Identifiers
+
 subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 
 Measurements
+
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
@@ -91,6 +93,7 @@ fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
 Activity Labels
+
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
 WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
